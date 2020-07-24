@@ -10,5 +10,5 @@ Tool: R  <br>
 * conducted slice and dice analysis to explore differences in the potential response to the promotional email(built multiple regression models with interacted variables and compared the purchase lift)
 * built a casual forest model to estimate individual-level conditional casual effect and used it along with the margin and cost information to score each customer 
 
-Outcome: The casual forest model indicated 55% of the experiment sample should be targeted. Please view the report to check out the summary of characteristics of the targted group 
+Outcome: The casual forest model indicated 55% of the experiment sample should be targeted. Please view the report to check out the summary of characteristics of the targted group. 
  
