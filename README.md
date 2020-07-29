@@ -1,4 +1,4 @@
-# A/B Testing-Email-Campaign-Optimization-with-Causal-Forest
+# A/B Testing-Email Campaign Experiment with Causal Forest
 A wine retailer is running email marketing experiments to evaluate the email promotion effectiveness prior to sending the emails to a broader set of customers. 
 This project is to evaluate the effectiveness of this marketing campaign and found out the target audience who would be triggered to purchase due to 
 the email using the experiment data.  <br>
