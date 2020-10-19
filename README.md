@@ -12,6 +12,6 @@ Tool: R  <br>
 
 Outcome: The causal forest model indicated 55% of the experiment sample should be targeted. Please view the report to check out the summary of characteristics of the targted group. 
 
-### Please click the following link to view the code. <br>
+#### Please click the following link to view the code. <br>
 http://htmlpreview.github.io/?https://github.com/Sichun-Li/A-B-Testing-Email-Campaign-Experiment-with-Causal-Forest/blob/master/wine%20retailer%20code.html
  
