@@ -1,4 +1,4 @@
-# A/B Testing-Email Campaign Experiment and Retargeting Campaign Audiences with Causal Forest Model
+# Email Campaign Analysis with Causal Forest Modeling
 A wine retailer was running email marketing experiments to evaluate the email promotion effectiveness prior to sending the emails to a broader set of customers. 
 This project was to evaluate the effectiveness of this marketing campaign and found out the target audience who would be triggered to purchase due to 
 the email using the experiment data.  <br>
